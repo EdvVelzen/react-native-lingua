@@ -240,7 +240,7 @@
   box-shadow: 0 4px 12px rgba(13, 19, 43, 0.06);
 }
 
-/* Button Utilities (Duolingo 3D pressed style) */
+/* Button Utilities (Lingua 3D pressed style) */
 @utility btn {
   flex-direction: row;
   align-items: center;
