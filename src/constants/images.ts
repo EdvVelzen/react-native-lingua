@@ -16,6 +16,13 @@ import favicon from '@/assets/images/favicon.png';
 import tutorialWeb from '@/assets/images/tutorial-web.png';
 import tabHome from '@/assets/images/tabIcons/home.png';
 import tabExplore from '@/assets/images/tabIcons/explore.png';
+import google from '@/assets/images/google.png';
+import facebook from '@/assets/images/facebook.png';
+import apple from '@/assets/images/apple.png';
+import eye from '@/assets/images/eye.png';
+import eyeOff from '@/assets/images/eye-off.png';
+import sparkleYellow from '@/assets/images/sparkle-yellow.png';
+import sparkleBlue from '@/assets/images/sparkle-blue.png';
 
 export const images = {
   // Brand mascot & logo
@@ -40,6 +47,15 @@ export const images = {
   // Tab icons
   tabHome,
   tabExplore,
+
+  // Social & Auth icons
+  google,
+  facebook,
+  apple,
+  eye,
+  eyeOff,
+  sparkleYellow,
+  sparkleBlue,
 };
 
 export default images;

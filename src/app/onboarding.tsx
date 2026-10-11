@@ -7,8 +7,7 @@ export default function OnboardingScreen() {
   const router = useRouter();
 
   const handleGetStarted = () => {
-    // Navigation to Sign Up screen will be connected in Prompt 04
-    console.log("Get Started pressed");
+    router.push("/(auth)/sign-up");
   };
 
   return (

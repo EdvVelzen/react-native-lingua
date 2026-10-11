@@ -24,7 +24,7 @@ export default function HomeScreen() {
 
         {/* Bottom Navigation Link to Onboarding */}
         <View className="pb-4">
-          <Link href="/(auth)/onboarding" asChild>
+          <Link href="/onboarding" asChild>
             <TouchableOpacity
               activeOpacity={0.85}
               className="relative h-14 w-full flex-row items-center justify-center rounded-[18px] bg-lingua-purple"
